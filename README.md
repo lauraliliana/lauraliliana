@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=jrodriguez9510.visitor-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=lauraliliana.visitor-badge)
 
 <br />
 
